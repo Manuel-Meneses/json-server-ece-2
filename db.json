@@ -11,22 +11,12 @@
             {
                 "id": 1,
                 "link": "facebook",
-                "iconClass": "fab fa-facebook-f"
+                "iconClass": "fab fa-instagram"
             },
             {
                 "id": 2,
                 "link": "twitter",
-                "iconClass": "fab fa-twitter"
-            },
-            {
-                "id": 3,
-                "link": "google-plus",
-                "iconClass": "fab fa-google-plus-g"
-            },
-            {
-                "id": 4,
-                "link": "vine",
-                "iconClass": "fab fa-vine"
+                "iconClass": "fab fa-discord"
             }
         ],
         "footerList_1": [
