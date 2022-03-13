@@ -11,12 +11,12 @@
             {
                 "id": 1,
                 "link": "facebook",
-                "iconClass": "fa-brands fa-instagram"
+                "iconClass": "fab fa-instagram"
             },
             {
                 "id": 2,
                 "link": "facebook",
-                "iconClass": "fa-brands fa-discord"
+                "iconClass": "fab fa-discord"
             }
         ],
         "footerList_1": [
