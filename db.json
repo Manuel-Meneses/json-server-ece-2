@@ -17,17 +17,7 @@
                 "id": 2,
                 "link": "discord",
                 "iconClass": "fab fa-discord"
-            },
-            {
-                "id": 3,
-                "link": "youtube",
-                "iconClass": "fab fa-youtube"
-            },
-            {
-                "id": 4,
-                "link": "facebook",
-                "iconClass": "fab fa-facebook"
-            } 
+            }
         ],
         "footerList_1": [
             {
