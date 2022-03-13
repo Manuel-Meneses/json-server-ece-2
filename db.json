@@ -10,13 +10,13 @@
         "iconList": [
             {
                 "id": 1,
-                "link": "instagram",
-                "iconClass": "fab fa-instagram"
+                "link": "facebook",
+                "iconClass": "fa-brands fa-instagram"
             },
             {
                 "id": 2,
-                "link": "discord",
-                "iconClass": "fab fa-discord"
+                "link": "facebook",
+                "iconClass": "fa-brands fa-discord"
             }
         ],
         "footerList_1": [
