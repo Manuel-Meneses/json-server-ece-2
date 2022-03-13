@@ -10,14 +10,24 @@
         "iconList": [
             {
                 "id": 1,
-                "link": "facebook",
+                "link": "instagram",
                 "iconClass": "fab fa-instagram"
             },
             {
                 "id": 2,
-                "link": "twitter",
+                "link": "discord",
                 "iconClass": "fab fa-discord"
-            }
+            } 
+            {
+                "id": 3,
+                "link": "youtube",
+                "iconClass": "fab fa-youtube"
+            },
+            {
+                "id": 2,
+                "link": "facebook",
+                "iconClass": "fab fa-facebook"
+            } 
         ],
         "footerList_1": [
             {
