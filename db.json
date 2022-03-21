@@ -3,9 +3,9 @@
   "themeOneFooterSection": {
         "image": "/img/logo.png",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
-        "linkText_1": "Useful Links",
-        "linkText_2": "Product Help",
-        "linkText_3": "Download",
+        "linkText_1": "Links",
+        "linkText_2": "Others",
+        "linkText_3": "Social Media",
         "copyrightText": "Copyrights 2020 Appo All rights reserved.",
         "iconList": [
             {
@@ -17,6 +17,16 @@
                 "id": 2,
                 "link": "facebook",
                 "iconClass": "fab fa-discord"
+            },
+              {
+                "id": 1,
+                "link": "facebook",
+                "iconClass": "fab fa-youtube"
+            },  
+            {
+                "id": 1,
+                "link": "facebook",
+                "iconClass": "fab fa-linkedin"
             }
         ],
         "footerList_1": [
@@ -64,25 +74,26 @@
             }
         ],
         "footerList_3": [
-            {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
+           {
                 "id": 1,
-                "text": "For Windows"
+                "link": "facebook",
+                "iconClass": "fab fa-instagram"
             },
             {
                 "id": 2,
-                "text": "For Linux"
+                "link": "facebook",
+                "iconClass": "fab fa-discord"
             },
-            {
+              {
                 "id": 3,
-                "text": "For IOS"
-            },
+                "link": "facebook",
+                "iconClass": "fab fa-youtube"
+            },  
             {
                 "id": 4,
-                "text": "For Android"
-            },
-            {
-                "id": 5,
-                "text": "For Mac"
+                "link": "facebook",
+                "iconClass": "fab fa-linkedin"
             }
         ]
     }
