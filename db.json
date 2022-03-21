@@ -79,22 +79,22 @@
                 "id": 1,
                 "link": "facebook",
                 "iconClass": "fab fa-instagram"
-            },
-            {
+           },
+           {
                 "id": 2,
                 "link": "facebook",
                 "iconClass": "fab fa-discord"
-            },
-              {
+           },
+           {
                 "id": 3,
                 "link": "facebook",
                 "iconClass": "fab fa-youtube"
-            },  
-            {
+           },  
+           {
                 "id": 4,
                 "link": "facebook",
                 "iconClass": "fab fa-linkedin"
-            }
+           }
         ]
     }
 }
