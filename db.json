@@ -7,28 +7,6 @@
         "linkText_2": "Others",
         "linkText_3": "Social Media",
         "copyrightText": "Copyrights 2020 Appo All rights reserved.",
-        "iconList": [
-            {
-                "id": 1,
-                "link": "facebook",
-                "iconClass": "fab fa-instagram"
-            },
-            {
-                "id": 2,
-                "link": "facebook",
-                "iconClass": "fab fa-discord"
-            },
-            {
-                "id": 3,
-                "link": "facebook",
-                "iconClass": "fab fa-instagram"
-            },  
-            {
-                "id": 4,
-                "link": "facebook",
-                "iconClass": "fab fa-discord"
-            }
-        ],
         "footerList_1": [
             {
                 "id": 1,
@@ -75,26 +53,28 @@
         ],
         "footerList_3": [
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
+           "iconList": [
            {
                 "id": 1,
-                "link": "facebook",
+                "link": "/",
                 "iconClass": "fab fa-instagram"
            },
            {
                 "id": 2,
-                "link": "facebook",
-                "iconClass": "fab fa-discord"
+                "link": "/",
+                "iconClass": "fab fa-youtube"
            },
            {
                 "id": 3,
-                "link": "facebook",
-                "iconClass": "fab fa-instagram"
+                "link": "/",
+                "iconClass": "fab fa-linkedin"
            },  
            {
                 "id": 4,
-                "link": "facebook",
+                "link": "/",
                 "iconClass": "fab fa-discord"
            }
+           ],
         ]
     }
 }
