@@ -21,12 +21,12 @@
             {
                 "id": 3,
                 "link": "facebook",
-                "iconClass": "fab fa-discord"
+                "iconClass": "fab fa-instagram"
             },  
             {
                 "id": 4,
                 "link": "facebook",
-                "iconClass": "fab fa-instagram"
+                "iconClass": "fab fa-discord"
             }
         ],
         "footerList_1": [
