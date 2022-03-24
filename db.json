@@ -36,18 +36,18 @@
             },
             {
                 "id": 2,
-                "link": "twitter",
-                "iconClass": "fab fa-twitter"
+                "link": "instagram",
+                "iconClass": "fab fa-instagram"
             },
             {
                 "id": 3,
-                "link": "google-plus",
-                "iconClass": "fab fa-google-plus-g"
+                "link": "discord",
+                "iconClass": "fab fa-discord"
             },
             {
                 "id": 4,
-                "link": "vine",
-                "iconClass": "fab fa-vine"
+                "link": "youtube",
+                "iconClass": "fab fa-youtube"
             }
         ],
         "footerList_1": [
