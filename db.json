@@ -25,9 +25,9 @@
     "themeOneFooterSection": {
         "image": "/img/logo.png",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
-        "linkText_1": "Useful Links",
-        "linkText_2": "Product Help",
-        "linkText_3": "Download",
+        "linkText_1": "Links",
+        "linkText_2": "Others",
+        "linkText_3": "Social Media",
         "iconList": [
             {
                 "id": 1,
