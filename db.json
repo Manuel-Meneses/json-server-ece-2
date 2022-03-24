@@ -52,29 +52,7 @@
             }
         ],
         "footerList_3": [
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
-        "iconList": [
-           {
-                "id": 1,
-                "link": "/",
-                "iconClass": "fab fa-instagram"
-           },
-           {
-                "id": 2,
-                "link": "/",
-                "iconClass": "fab fa-youtube"
-           },
-           {
-                "id": 3,
-                "link": "/",
-                "iconClass": "fab fa-linkedin"
-           },  
-           {
-                "id": 4,
-                "link": "/",
-                "iconClass": "fab fa-discord"
-           } 
-           ],
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae."
         ]
     }
 }
