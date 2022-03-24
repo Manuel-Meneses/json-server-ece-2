@@ -1,12 +1,55 @@
 {
-    
-  "themeOneFooterSection": {
+    "themeOneContactSection": {
+        "heading": "Stay Tuned",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "iconList": [
+            {
+                "id": 1,
+                "iconClass": "fas fa-home",
+                "text": "Vestibulum nulla libero, convallis, tincidunt suscipit diam, DC 2002"
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-phone-alt",
+                "text": "+1 230 456 789-012 345 6789"
+            },
+            {
+                "id": 3,
+                "iconClass": "fas fa-envelope",
+                "text": "exampledomain@domain.com"
+            }
+        ]
+    },
+    "themeOneFooterSection": {
         "image": "/img/logo.png",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
-        "linkText_1": "Links",
-        "linkText_2": "Others",
-        "linkText_3": "Social Media",
-        "copyrightText": "Copyrights 2020 Appo All rights reserved.",
+        "linkText_1": "Useful Links",
+        "linkText_2": "Product Help",
+        "linkText_3": "Download",
+        "iconList": [
+            {
+                "id": 1,
+                "link": "facebook",
+                "iconClass": "fab fa-facebook-f"
+            },
+            {
+                "id": 2,
+                "link": "twitter",
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "link": "google-plus",
+                "iconClass": "fab fa-google-plus-g"
+            },
+            {
+                "id": 4,
+                "link": "vine",
+                "iconClass": "fab fa-vine"
+            }
+        ],
         "footerList_1": [
             {
                 "id": 1,
@@ -52,6 +95,117 @@
             }
         ],
         "footerList_3": [
+            {
+                "id": 1,
+                "image": "/img/google-play-black.png"
+            },
+            {
+                "id": 2,
+                "image": "/img/app-store-black.png"
+            }
+        ],
+        "footerList_4": [
+            {
+                "id": 1,
+                "text": "Affiliate program"
+            },
+            {
+                "id": 2,
+                "text": "Terms & Conditions"
+            },
+            {
+                "id": 3,
+                "text": "Privacy Policy"
+            },
+            {
+                "id": 4,
+                "text": "Refund Policy"
+            }
+        ]
+    },
+    "themeOneBlogSection": {
+        "blogData": [
+            {
+                "id": 1,
+                "image": "/img/blog-1.jpg",
+                "author": "Anna Sword",
+                "date": "Feb 05, 2021",
+                "title": "How to grow up your business",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 2,
+                "image": "/img/blog-2.jpg",
+                "author": "Jassica William",
+                "date": "Feb 05, 2021",
+                "title": "Planing to manage your clients?",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 3,
+                "image": "/img/blog-3.jpg",
+                "author": "John Doe",
+                "date": "Mar 05, 2021",
+                "title": "Make your successful business with sApp",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 4,
+                "image": "/img/blog-4.jpg",
+                "author": "Anna Sword",
+                "date": "Aug 05, 2021",
+                "title": "How to get more clients?",
+                "content": "Need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 5,
+                "image": "/img/blog-5.jpg",
+                "author": "Anna Sword",
+                "date": "Feb 05, 2021",
+                "title": "Grow up your business successfully",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 6,
+                "image": "/img/blog-6.jpg",
+                "author": "Junaid Hasan",
+                "date": "Jan 12, 2021",
+                "title": "Meet the business magnet of the year",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+                "btnText": "Read More"
+            },
+            {
+                "id": 7,
+                "image": "/img/blog-7.jpg",
+                "author": "Anna Sword",
+                "date": "Feb 05, 2021",
+                "title": "How to grow up your business",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 8,
+                "image": "/img/blog-8.jpg",
+                "author": "Anna Sword",
+                "date": "Sep 24, 2021",
+                "title": "Planing to manage your clients?",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 9,
+                "image": "/img/blog-9.jpg",
+                "author": "Anna Sword",
+                "date": "Feb 05, 2021",
+                "title": "Make your successful business with sApp",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly.",
+                "btnText": "Read More"
+            }
         ]
     }
 }
