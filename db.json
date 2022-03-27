@@ -83,15 +83,15 @@
             },
             {
                 "id": 3,
-                "text": "Support"
-            },
-            {
-                "id": 4,
                 "text": "Terms & Conditions"
             },
             {
+                "id": 4,
+                "text": "Support"
+            },
+            {
                 "id": 5,
-                "text": "Contact"
+                "text": "Join us"
             }
         ],
         "footerList_3": [
